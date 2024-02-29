@@ -1,0 +1,20 @@
+.bg-img1{
+  background-color: #000;
+  background-size: cover;
+  background-image: url('https://www.w3schools.com/bootstrap4/la.jpg');
+}
+
+.bg-img2{
+  background-color: #000;
+  background-size: cover;
+  background-image: url('https://www.w3schools.com/bootstrap4/la.jpg');
+}
+
+
+.bg-img3{
+  background-color: #000;
+  background-size: cover;
+  background-image: url('https://www.w3schools.com/bootstrap4/la.jpg');
+}
+element.style{
+  height:300px;}
